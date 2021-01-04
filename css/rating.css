@@ -1,0 +1,21 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px; }
+
+.minh-100 {
+  height: 100vh;
+}
+
+.star-rating {
+    width: 109px;
+    height: 104px;
+    background-image: url(star_0.svg);
+    background-position:center;
+    background-repeat:no-repeat;
+    cursor: pointer;
+}
+
+
+.star-ratinghover{
+    background-image: url(star_1.svg);
+}
